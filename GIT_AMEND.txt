@@ -1,2 +1,3 @@
 Git commit fix methon pracitce
 This is new revison
+this is conflict test person2 has changed the file
